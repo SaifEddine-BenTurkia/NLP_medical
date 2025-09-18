@@ -1,0 +1,9 @@
+pandas
+numpy
+torch
+transformers
+spacy
+tqdm
+datasets
+unsloth
+trl
